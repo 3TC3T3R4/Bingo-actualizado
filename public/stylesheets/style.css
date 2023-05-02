@@ -1,0 +1,346 @@
+.bodyindex {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: black
+}
+
+.formstyle {
+
+  width: 450px;
+  margin: auto;
+  background-color: green;
+  box-sizing: border-box;
+  margin-top: 20px;
+  padding: 35px 30px;
+  border-radius: 7px;
+}
+
+.imagen {
+
+  height: 150px;
+  font-weight: 100;
+  padding-left: 80%;
+
+
+
+}
+
+
+input {
+  width: 60%;
+  margin-bottom: 40px;
+  padding: 15px;
+}
+
+a {
+
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  padding: 16px 24px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 8px;
+  width: 120px;
+  width: 140px;
+  text-align: center;
+
+
+}
+
+button {
+
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 24px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 8px;
+  width: 140px;
+  text-align: center;
+
+
+
+}
+
+.cuadro {
+  background-color: gold;
+  border-radius: 20%;
+
+}
+
+.h1signup {
+
+  background-color: white;
+
+}
+
+.bodylobby {
+
+  background: url(../images/lobby.jpg);
+  background-size: auto;
+  background-color: black;
+  background-repeat: no-repeat;
+
+
+}
+
+
+#containerflecha {
+
+  background-color: gray;
+  width: 25%;
+  margin-left: 25rem;
+
+
+}
+
+
+.labelflecha {
+
+  width: 100%;
+  margin-left: 57rem;
+
+}
+
+.flecha {
+
+  margin-top: 1rem;
+  width: 11%;
+
+}
+
+
+#containerLobby {
+
+  background-color: gray;
+  width: 25%;
+  margin-left: 60%;
+  margin-top: 2rem;
+  padding-right: 0;
+
+
+}
+
+.btnstart {
+
+  background-color: darkblue;
+  width: 100%;
+  height: 50%;
+
+}
+
+.lobby {
+
+  width: 100%;
+
+}
+
+.cargando {
+
+  color: yellow;
+  font-size: xx-large;
+
+}
+
+
+
+.numerossalientes {
+
+  font-size: small;
+  color: chartreuse;
+  background-color: darkblue;
+
+}
+
+
+.historial {
+
+  text-align: center;
+  color: black;
+
+
+}
+
+.tablabingo {
+  background-color: blue;
+  border-radius: 5%;
+  border-color: black;
+  margin: auto;
+
+}
+
+.balota {
+
+  background-color: darkorange;
+  border-radius: 20%;
+  color: white;
+
+
+
+}
+
+.obtenercarton {
+
+  padding-left: 10%;
+  padding-right: 20%;
+
+}
+
+.btnactualizarusuarios {
+
+
+
+  position: fixed;
+  right: 40px;
+
+
+}
+
+.btngane {
+
+
+  position: relative;
+  left: 920px;
+
+}
+
+
+.usuariosjugando {
+
+
+  font-size: x-large;
+  color: purple;
+
+
+
+}
+
+.bodyregistre {
+
+
+  background-color: antiquewhite;
+  background: url(../images/cuadros2.jpg);
+}
+
+.containerformregistre {
+
+  background-color: lightblue;
+  width: 25%;
+  height: 20rem;
+  margin: auto;
+  border-radius: 15px;
+  margin-top: 12rem;
+  background: url(../images/registre.jpg) no-repeat;
+  background-size: 27rem;
+}
+
+#formregistre {
+
+  margin: auto;
+
+
+}
+
+.nameregistre {
+
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  align-items: center;
+  width: 12rem;
+  margin-left: 8rem;
+}
+
+.passwordregistre {
+
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  align-items: center;
+  width: 12rem;
+  margin-left: 8rem;
+
+}
+
+
+
+#username {
+  text-align: center;
+  align-items: center;
+  width: 12rem;
+  height: 1px;
+  margin-left: 3rem;
+}
+
+h1 {
+
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
+  color: darkred;
+}
+
+
+.section {
+
+  width: 12rem;
+  height: 2rem;
+
+
+}
+
+#password {
+
+  text-align: center;
+  align-items: center;
+  width: 12rem;
+  height: 1px;
+  margin-left: 3rem;
+
+}
+
+.btnregistre {
+
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 24px;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 8px;
+  width: 130px;
+  text-align: center;
+  margin-top: 1rem;
+  margin-left: 6rem;
+
+}
+
+.bodyplayzone {
+  background-color: lightblue;
+}
+
+.tittleb {
+  color: white;
+}
+
+.tittlei {
+  color: white;
+}
+
+.tittlen {
+  color: white;
+}
+
+.tittleg {
+  color: white;
+}
+
+.tittleo {
+  color: white;
+}
